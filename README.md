@@ -13,8 +13,10 @@ It's a great way to think about ourselves and how we work in a team. It's also a
 
 ## Updating your user manual
 
-Throughout the course you'll be working with new people and learning about how you like to work alongside others. Updating your user manual throughout the course will allow you to understand more about yourself and will help others to understand how like to work. 
+Throughout the course you'll be working with new people and learning about how you like to work alongside others. Updating your user manual throughout the course will allow you to understand more about yourself and will help others to understand how like to work.
+
+You'll have time every Friday morning (09:45-10:00) to update your user manual with any reflections on what you found out about yourself that week!
 
 ## Example
 
-See my user manual here: https://github.com/fac-17/user-manuals/issues/12
+See @Albadylic's user manual here: https://github.com/fac-17/user-manuals/issues/12
