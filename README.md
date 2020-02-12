@@ -19,4 +19,4 @@ You'll have time every Friday morning (09:45-10:00) to update your user manual w
 
 ## Example
 
-See @Albadylic's user manual here: https://github.com/fac-17/user-manuals/issues/12
+See @[Albadylic's](https://github.com/Albadylic) user manual here: https://github.com/fac-17/user-manuals/issues/12
