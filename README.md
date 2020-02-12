@@ -10,3 +10,11 @@ We will make time regularly to go back and edit this info, so don't worry if you
 
 ## Why are we doing this?
 It's a great way to think about ourselves and how we work in a team. It's also a great way to find out about our team-mates before working together so we know how to get the best out of each other and work well as a team 👭👬
+
+## Updating your user manual
+
+Throughout the course you'll be working with new people and learning about how you like to work alongside others. Updating your user manual throughout the course will allow you to understand more about yourself and will help others to understand how like to work. 
+
+## Example
+
+See my user manual here: https://github.com/fac-17/user-manuals/issues/12
